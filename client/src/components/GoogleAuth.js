@@ -60,7 +60,7 @@ class GoogleAuth extends Component {
             return (
                 <button className="ui green google button" onClick={this.onSignInClick}>
                     <i className="google icon" />
-                    Sign In eith Google
+                    Sign In with Google
                 </button>
             )
         }
