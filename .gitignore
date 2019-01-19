@@ -3,6 +3,7 @@
 *.DS_Store
 ### Node ###
 node_modules
+api/node_modules
 # Logs
 logs
 *.log
