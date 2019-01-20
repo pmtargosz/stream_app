@@ -1,0 +1,20 @@
+{
+  "name": "rtmpserver",
+  "version": "0.0.1",
+  "description": "RTMP server for stream app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "RTMP",
+    "server",
+    "react",
+    "redux"
+  ],
+  "author": "Pawel Targosz <pmtargosz@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "node-media-server": "^1.4.9"
+  }
+}
