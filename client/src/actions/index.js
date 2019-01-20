@@ -67,4 +67,8 @@ export const deleteStream = id => async dispatch => {
         type: DELETE_STREAM,
         payload: id
     })
+
+    // Do programmatic navigation to
+    // get the user back to root route
+    history.push('/')
 }

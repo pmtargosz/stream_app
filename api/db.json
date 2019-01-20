@@ -3,41 +3,20 @@
     {
       "title": "My Stream",
       "description": "This is a great stream!",
+      "userId": "117582582377284919837",
       "id": 1
     },
     {
-      "title": "Other Stream123w23e",
+      "title": "Other Stream",
       "description": "This is a bad stream!",
+      "userId": "117582582377284919837",
       "id": 2
     },
     {
       "title": "My Stream with id",
       "description": "Stream with user id",
-      "userId": "2343563",
+      "userId": "117582582377284919837",
       "id": 3
-    },
-    {
-      "title": "Test UserId",
-      "description": "User id added to stream",
-      "userId": "2343563",
-      "id": 4
-    },
-    {
-      "title": "Stream and userID sA",
-      "description": "UserID and stream ",
-      "id": 5
-    },
-    {
-      "title": "Test history push",
-      "description": "history push",
-      "userId": "117582582377284919837",
-      "id": 6
-    },
-    {
-      "title": "testASDSAD",
-      "description": "tsad",
-      "userId": "117582582377284919837",
-      "id": 7
     }
   ]
 }
