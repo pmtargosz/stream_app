@@ -6,7 +6,7 @@
       "id": 1
     },
     {
-      "title": "Other Stream",
+      "title": "Other Stream123w23e",
       "description": "This is a bad stream!",
       "id": 2
     },
@@ -23,10 +23,21 @@
       "id": 4
     },
     {
-      "title": "Stream and userID",
+      "title": "Stream and userID sA",
       "description": "UserID and stream ",
-      "userId": "117582582377284919837",
       "id": 5
+    },
+    {
+      "title": "Test history push",
+      "description": "history push",
+      "userId": "117582582377284919837",
+      "id": 6
+    },
+    {
+      "title": "testASDSAD",
+      "description": "tsad",
+      "userId": "117582582377284919837",
+      "id": 7
     }
   ]
 }
