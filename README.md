@@ -65,6 +65,7 @@ npm run start
 * [redux](https://redux.js.org/) - Redux is a predictable state container for JavaScript apps.
 * [rtmp](https://github.com/illuspas/Node-Media-Server) - RTMP Server.
 * [server](https://github.com/typicode/json-server) - JSON server.
+* [flv.js](https://www.npmjs.com/package/flv.js) - flv.js
 
 ## License
 [MIT](https://opensource.org/licenses/MIT)
